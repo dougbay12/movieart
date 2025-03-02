@@ -2,6 +2,10 @@
 
 This tool extracts I-frames from a movie file and concatenates them into a single image. It uses ffmpeg for frame extraction and ImageMagick for image concatenation.
 
+## Author
+
+Created by Doug Bay
+
 ## Requirements
 
 - `ffmpeg` must be installed and available in your PATH.
